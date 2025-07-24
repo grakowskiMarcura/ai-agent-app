@@ -17,14 +17,14 @@ Easily deployable to Vercel with 1 click.
 
 ## 🧠 Demo
 
-![Preview](https://github.com/YOUR_USERNAME/ai-agent-app/assets/demo-preview.png)  
+![Preview](https://github.com/grakowskiMarcura/ai-agent-app/assets/demo-preview.png)  
 > (Add a screenshot or GIF here after your first deployment!)
 
 ---
 
 ## 🚀 Deploy Now
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/ai-agent-app&env=GEMINI_API_KEY)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/grakowskiMarcura/ai-agent-app&env=GEMINI_API_KEY)
 
 > ✳️ After clicking, Vercel will prompt for `GEMINI_API_KEY`.
 
@@ -45,11 +45,4 @@ echo "GEMINI_API_KEY=your_key_here" > .env.local
 
 # 4. Run the dev server
 npm run dev
-
-
-## Deploy on Vercel
-
-An AI-powered assistant using Google Gemini API, built with Next.js, Tailwind CSS, and ShadCN UI.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/grakowskiMarcura/ai-agent-app)
 
