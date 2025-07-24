@@ -51,4 +51,5 @@ npm run dev
 
 An AI-powered assistant using Google Gemini API, built with Next.js, Tailwind CSS, and ShadCN UI.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/grakowskiMarcura/ai-agent-app&env=GEMINI_API_KEY)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/grakowskiMarcura/ai-agent-app)
+
