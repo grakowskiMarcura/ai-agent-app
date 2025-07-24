@@ -18,7 +18,6 @@ Easily deployable to Vercel with 1 click.
 ## 🧠 Demo
 
 ![Preview](https://github.com/grakowskiMarcura/ai-agent-app/assets/demo-preview.png)  
-> (Add a screenshot or GIF here after your first deployment!)
 
 ---
 
