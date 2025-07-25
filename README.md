@@ -33,7 +33,7 @@ Easily deployable to Vercel with 1 click.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/ai-agent-app.git
+git clone https://github.com/grakowskiMarcura/ai-agent-app.git
 cd ai-agent-app
 
 # 2. Install dependencies
